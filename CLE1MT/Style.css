@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: gainsboro;
+    background-color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
@@ -99,7 +99,7 @@ nav li{
 }
 
 nav a{
-    color: #444;
+    color: #fff;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 20px;
