@@ -11,6 +11,7 @@
     <li><a href="/LT3/10Favorites.html">LEARNING TASK 3</a></li>
     <li><a href="/CLE1MT/Home.html">Culminating Learning Evidence (Midterm)</a></li>
     <li><a href="/LT4/Index.html">LEARNING TASK 4</a></li>
+    <li><a href="/LT5/Java.html">LEARNING TASK 5</a></li>
   </ul>
   </body>
 </html>
