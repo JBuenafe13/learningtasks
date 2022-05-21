@@ -1,0 +1,31 @@
+body{
+    height: 920px;
+    width: 1910;
+    text-align: center;
+    background-image: url(Joker.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    background-position: center;
+}
+
+#p1{
+    font-size: 40px;
+    position: absolute;
+    top: 28%;
+    left: 10%;
+    right: 45%;
+    color: white;
+    font-weight: normal;
+    font-family: 'Lora', serif;
+}
+
+#p2{
+    font-size: 50px;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    right: 20%;
+    color: white;
+    font-weight: normal;
+    font-family: 'Lavishly Yours', cursive;
+}

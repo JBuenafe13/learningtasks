@@ -1,0 +1,103 @@
+#wrapper{
+    width: 1920px;
+    height: 1080px;
+    margin: 0 auto;
+}
+#logo-menu{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    padding: 10px 90px;
+    box-sizing: border-box;
+    background: #000;
+    border-bottom: 1px solid #fff;
+    margin: 0 auto;
+}
+#logo img{
+    height: 100px;
+    float: left;
+}
+#menu{
+    height: 10px;
+    width: 78%;
+    margin: 0 auto;
+}
+#menu li{
+     display: inline-block;
+}
+#menu ul{
+    list-style: none;
+    float: right;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+#menu ul li a{
+    line-height: 80px;
+    color: #fff;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#menu ul li a:hover{
+    background: #087830;
+    border-radius: 6px;
+}
+#contents{
+    width: 1920px;
+    min-height: 1080px;
+    margin: 10px;
+}
+#main-wrapper{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+#main-content{
+    margin-left:10%;
+    margin-top: 1%;
+    position: absolute;
+}
+#main-content h1{
+    font-size: 70px;
+    color: #087830;
+    margin-bottom: 20px;
+}
+#span{
+    color: green;
+}
+#main-content p{
+    color: #087830;
+    line-height: 25px;
+    font-size: 23px;
+}
+#main-content a{
+    background: #212121;
+}
+#new-wrapper{
+    width: 98%;
+    min-height: 550px;
+    margin: 4px;
+    background-color: blue;
+}
+#electronics-wrapper{
+    width: 98%;
+    min-height: 550px;
+    margin: 4px;
+    background-color: green;
+}
+#image{
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom: 0;
+    right: 100px   
+}
+#image img{
+    height: auto;
+    position: absolute;
+    left:20%;
+    bottom: auto;
+}

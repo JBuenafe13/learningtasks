@@ -1,0 +1,97 @@
+#wrapper{
+    width: 1920px;
+    height: 1080px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#box-one{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #5DADE2;
+}
+#box-two{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #BA452B;
+}
+#box-three{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #34495E;
+}
+#box-four{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #CB63F1;
+}
+#box-five{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #ECF0F1;
+}
+#box-six{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #F1C40F;
+}
+#box-seven{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #1ABC9C;
+}
+#box-eight{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #3498DB;
+}
+#box-nine{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #E59866;
+}
+#box-ten{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #2BBA36;
+}
