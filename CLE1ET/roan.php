@@ -11,13 +11,13 @@ $show = (isset($_GET['subpage']) && $_GET['subpage'] != '') ? $_GET['subpage'] :
     </head>
     <body>
         <div id="wrapper">
-        <div id="logo-menu">
+        <div id="LM">
             <div id ="logo">
                 <a href="roan.php">
                 <img src="kiran.png"
                      title="logo" alt="logo"/></a>
             </div>
-            <div id="menu">
+            <div id="NAV">
                 <ul>
                     <li><a href="roan.php?subpage=2">Learning Task 2</a></li>
                     <li><a href="roan.php?subpage=3">Learning task 3</a></li>
