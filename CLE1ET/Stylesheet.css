@@ -3,7 +3,7 @@
     height: 1080px;
     margin: 0 auto;
 }
-#logo-menu{
+#LM{
     top: 0;
     left: 0;
     width: 100%;
@@ -18,22 +18,22 @@
     height: 100px;
     float: left;
 }
-#menu{
+#nav{
     height: 10px;
     width: 78%;
     margin: 0 auto;
 }
-#menu li{
+#nav li{
      display: inline-block;
 }
-#menu ul{
+#nav ul{
     list-style: none;
     float: right;
     margin: 0;
     padding: 0;
     display: flex;
 }
-#menu ul li a{
+#nav ul li a{
     line-height: 80px;
     color: #fff;
     padding: 12px 30px;
@@ -42,7 +42,7 @@
     font-weight: bold;
     text-transform: uppercase;
 }
-#menu ul li a:hover{
+#nav ul li a:hover{
     background: #087830;
     border-radius: 6px;
 }
