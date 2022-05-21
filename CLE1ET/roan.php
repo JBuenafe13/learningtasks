@@ -17,7 +17,7 @@ $show = (isset($_GET['subpage']) && $_GET['subpage'] != '') ? $_GET['subpage'] :
                 <img src="kiran.png"
                      title="logo" alt="logo"/></a>
             </div>
-            <div id="NAV">
+            <div id="nav">
                 <ul>
                     <li><a href="roan.php?subpage=2">Learning Task 2</a></li>
                     <li><a href="roan.php?subpage=3">Learning task 3</a></li>
